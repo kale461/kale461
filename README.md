@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suraj Sunil Kale
 - 👀 I’m interested in ...Webiste making like commercial and personal portfolio,Acting,Dance,Music.
 - 🌱 I’m currently learning ...Web Development Course
-- 💞️ I’m looking to collaborate on ...big project of webs 
+- 💞️ I’m looking to collaborate on ...small project of webs 
 - 📫 How to reach me ... Email - kalesuraj755@gmail.com
 
 <!---
